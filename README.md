@@ -1,0 +1,1 @@
+# health-sensor-aurora-hardware
