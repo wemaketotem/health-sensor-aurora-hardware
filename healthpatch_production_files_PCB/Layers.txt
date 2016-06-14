@@ -1,0 +1,14 @@
+Gerber format:
+
+Inch, 2:5, leading and trailing zeroes. Referenced to absolute origin
+
+Board trace layer stack:
+1, Top Layer: healthpatch_top_layer.GTL
+2, Bottom Layer: healthpatch_bottom_layer.GBL
+
+Board outline:
+healthpatch_keepout_layer.GKO
+
+
+Board drilling plated:
+healthpatch_drill.TXT
